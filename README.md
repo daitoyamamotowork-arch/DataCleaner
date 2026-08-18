@@ -4,6 +4,14 @@ CSV / Excel データをブラウザ上で確認し、**重複・空欄・URL・
 
 Python と Streamlit を使用して作成しており、データ整理や事務作業の効率化を想定しています。
 
+## 🌐 デモ
+
+インストール不要で、ブラウザからDataCleanerを試すことができます。
+
+👉 **[DataCleanerを試す](https://datacleaner-daito.streamlit.app/)**
+
+CSV または Excel ファイルをアップロードすると、重複・空欄・URL・電話番号表記などの整理結果を確認できます。
+
 ## スクリーンショット
 
 ### ファイル読み込み・整理項目の設定
